@@ -1,0 +1,11 @@
+# ListConnectionPolicyTargetListConnectionPolicyTargetResponse
+
+OK
+
+
+## Fields
+
+| Field                                                                                                                    | Type                                                                                                                     | Required                                                                                                                 | Description                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| `targets`                                                                                                                | List[[models.VoiceV1ConnectionPolicyConnectionPolicyTarget](../models/voicev1connectionpolicyconnectionpolicytarget.md)] | :heavy_minus_sign:                                                                                                       | N/A                                                                                                                      |
+| `meta`                                                                                                                   | [Optional[models.ListConnectionPolicyTargetMeta]](../models/listconnectionpolicytargetmeta.md)                           | :heavy_minus_sign:                                                                                                       | N/A                                                                                                                      |

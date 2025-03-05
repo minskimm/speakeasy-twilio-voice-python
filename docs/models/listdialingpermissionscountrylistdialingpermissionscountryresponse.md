@@ -1,0 +1,11 @@
+# ListDialingPermissionsCountryListDialingPermissionsCountryResponse
+
+OK
+
+
+## Fields
+
+| Field                                                                                                                              | Type                                                                                                                               | Required                                                                                                                           | Description                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| `content`                                                                                                                          | List[[models.VoiceV1DialingPermissionsDialingPermissionsCountry](../models/voicev1dialingpermissionsdialingpermissionscountry.md)] | :heavy_minus_sign:                                                                                                                 | N/A                                                                                                                                |
+| `meta`                                                                                                                             | [Optional[models.ListDialingPermissionsCountryMeta]](../models/listdialingpermissionscountrymeta.md)                               | :heavy_minus_sign:                                                                                                                 | N/A                                                                                                                                |

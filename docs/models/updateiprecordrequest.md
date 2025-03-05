@@ -1,0 +1,9 @@
+# UpdateIPRecordRequest
+
+
+## Fields
+
+| Field                                                                                                    | Type                                                                                                     | Required                                                                                                 | Description                                                                                              |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| `sid`                                                                                                    | *str*                                                                                                    | :heavy_check_mark:                                                                                       | The Twilio-provided string that uniquely identifies the IP Record resource to update.                    |
+| `request_body`                                                                                           | [Optional[models.UpdateIPRecordUpdateIPRecordRequest]](../models/updateiprecordupdateiprecordrequest.md) | :heavy_minus_sign:                                                                                       | N/A                                                                                                      |
